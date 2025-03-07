@@ -1,2 +1,2 @@
 # GEN_AI_PROJECT
-Search engine using tools
+Search engine using tools and agents
